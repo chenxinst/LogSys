@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+2021-12-12 10:07:54, total: 25281.976, p: -490.510, delta:6.250 手, g:2.000, e: 18.750, b: -150.000, ep: 3993.410, bp: 560.490
 
-You can use the [editor on GitHub](https://github.com/chenxinst/LogSys/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+2021-12-12 10:08:15, total: 25249.847, p: -490.840, delta:6.250 手, g:2.000, e: 18.750, b: -150.000, ep: 3992.200, bp: 560.380
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2021-12-12 10:08:36, total: 25262.221, p: -491.210, delta:6.250 手, g:2.000, e: 18.750, b: -150.000, ep: 3991.830, bp: 560.380
 
-### Markdown
+2021-12-12 10:08:58, total: 25270.057, p: -490.470, delta:6.250 手, g:2.000, e: 18.750, b: -150.000, ep: 3991.770, bp: 560.280
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2021-12-12 10:09:19, total: 25237.616, p: -491.860, delta:6.250 手, g:2.000, e: 18.750, b: -150.000, ep: 3990.860, bp: 560.340
 
-```markdown
-Syntax highlighted code block
+2021-12-12 10:09:40, total: 25284.494, p: -489.400, delta:6.250 手, g:2.000, e: 18.750, b: -150.000, ep: 3992.120, bp: 560.190
 
-# Header 1
-## Header 2
-### Header 3
+2021-12-12 10:10:01, total: 25270.241, p: -490.600, delta:6.250 手, g:2.000, e: 18.750, b: -150.000, ep: 3992.120, bp: 560.340
 
-- Bulleted
-- List
+2021-12-12 10:10:22, total: 25228.804, p: -492.670, delta:6.250 手, g:2.000, e: 18.750, b: -150.000, ep: 3994.290, bp: 560.870
 
-1. Numbered
-2. List
+2021-12-12 10:10:42, total: 25257.491, p: -491.280, delta:6.250 手, g:2.000, e: 18.750, b: -150.000, ep: 3993.440, bp: 560.590
 
-**Bold** and _Italic_ and `Code` text
+2021-12-12 10:11:04, total: 25239.234, p: -492.440, delta:6.250 手, g:2.000, e: 18.750, b: -150.000, ep: 3991.800, bp: 560.530
 
-[Link](url) and ![Image](src)
-```
+2021-12-12 10:11:25, total: 25348.672, p: -486.160, delta:6.250 手, g:2.000, e: 18.750, b: -150.000, ep: 3989.200, bp: 559.420
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+2021-12-12 10:11:47, total: 25360.429, p: -484.960, delta:6.250 手, g:2.000, e: 18.750, b: -150.000, ep: 3991.040, bp: 559.500
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chenxinst/LogSys/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+2021-12-12 10:12:08, total: 25350.304, p: -485.300, delta:6.250 手, g:2.000, e: 18.750, b: -150.000, ep: 3993.500, bp: 559.850
